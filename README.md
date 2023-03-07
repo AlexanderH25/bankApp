@@ -5,18 +5,18 @@ Send and receive money in the safest way
 Account information
 
 Acc1        
-username: ml
+username: ml -
 pin: 1111
 
 Acc2
-username: cd
+username: cd -
 pin: 2222
 
 Acc3
-username: stw
+username: stw -
 pin: 3333
 
 
 Acc4
-username: ss
+username: ss -
 pin: 4444
