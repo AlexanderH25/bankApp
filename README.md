@@ -2,8 +2,9 @@
 
 Send and receive money in the safest way
 
-Account access
-Acc1
+Account information
+
+Acc1        
 username: ml
 pin: 1111
 
